@@ -33,9 +33,9 @@ This project demonstrates a simple email classification and auto-responder appli
     cd email-classifier-auto-responder
     ```
 
-2. Navigate to the `frontend` directory:
+2. Navigate to the frontend directory:
     ```bash
-    cd frontend
+    cd veridian-entry-example
     ```
 
 3. Install the dependencies:
@@ -50,9 +50,9 @@ This project demonstrates a simple email classification and auto-responder appli
 
 ### Backend Setup
 
-1. Navigate to the `backend` directory:
+1. Navigate to the backend directory:
     ```bash
-    cd backend
+    cd src-python
     ```
 
 2. Create a virtual environment and activate it:
@@ -73,7 +73,7 @@ This project demonstrates a simple email classification and auto-responder appli
 
 ## Usage
 
-1. Open your browser and navigate to `http://localhost:3000`.
+1. Open your browser and navigate to `http://localhost:5173` or any other localhost that was prompted.
 2. Paste an email into the text area and click "Analyze Email".
 3. The app will classify the email and generate a response if it doesn't need human attention.
 
