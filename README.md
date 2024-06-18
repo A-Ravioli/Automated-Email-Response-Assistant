@@ -2,7 +2,7 @@
 
 This project demonstrates a simple email classification and auto-responder application using a chat-based UI built with React and a backend powered by Flask, LangChain, and locally hosted lightweight language models.
 
-![Project Screenshot](ss.png)
+![Project Screenshot](image.png)
 
 ## Features
 
