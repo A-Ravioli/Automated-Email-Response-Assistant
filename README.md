@@ -29,21 +29,16 @@ This project demonstrates a simple email classification and auto-responder appli
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/email-classifier-auto-responder.git
-    cd email-classifier-auto-responder
+    git clone https://github.com/yourusername/Automated-Email-Response-Assistant.git
+    cd Automated-Email-Response-Assistant
     ```
 
-2. Navigate to the frontend directory:
-    ```bash
-    cd veridian-entry-example
-    ```
-
-3. Install the dependencies:
+2. Install the dependencies:
     ```bash
     npm install
     ```
 
-4. Start the React development server:
+3. Start the React development server:
     ```bash
     npm start
     ```
