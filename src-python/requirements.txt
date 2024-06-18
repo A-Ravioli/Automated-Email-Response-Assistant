@@ -1,0 +1,8 @@
+
+### requirements.txt
+
+```plaintext
+Flask
+transformers
+torch
+langchain
